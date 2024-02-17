@@ -33,4 +33,3 @@ sed -i '51 i \\n\tlocation /hbnb_static {\n\talias /data/web_static/current;\n\t
 # (ex: https://mydomainname.tech/hbnb_static).
 # Don’t forget to restart Nginx after updating the configuration:
 service nginx restart
-
